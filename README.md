@@ -26,15 +26,16 @@ This application requires no additional installation. Simply follow these steps:
 ## Screenshots
 
 ### Application Interface
-![Application Screenshot](screenshots/UI.jpeg)
+<img src="screenshots/UI.jpeg" alt="Application Screenshot" width="600">
+
 *Simple and user-friendly interface*
 
 ### Before and After
-![Original Photo](screenshots/old.jpeg)
-*Original rectangular photo*
+<div align="center">
+<img src="screenshots/old.jpeg" alt="Original Photo" width="300">
+<img src="screenshots/new.png" alt="Processed Photo" width="300">
+</div>
 
-![Processed Photo](screenshots/new.png)
-*Photo with black borders converted to 1:1 profile format*
 
 ## Contributing
 
