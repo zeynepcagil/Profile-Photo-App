@@ -24,7 +24,10 @@ I originally created this application for a feature I wanted to use on my phone,
 
 ### Before and After
 <p align="center">
-  <img src="screenshots/old.jpeg" alt="Original Photo" style="width:40%; height:auto; margin-right:10px; border:1px solid #ccc; border-radius:8px;">
+  <!-- Old photo: height half, keep aspect ratio -->
+  <img src="screenshots/old.jpeg" alt="Original Photo" style="height:50%; width:auto; margin-right:10px; border:1px solid #ccc; border-radius:8px;">
+  
+  <!-- New photo: normal size -->
   <img src="screenshots/new.png" alt="Processed Photo" style="width:40%; height:auto; border:1px solid #ccc; border-radius:8px;">
 </p>
 
