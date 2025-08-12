@@ -16,18 +16,20 @@ I originally created this application for a feature I wanted to use on my phone,
 ## 📱 Screenshots
 
 ### Application Interface
+### Application Interface
 <p align="center">
-  <img src="screenshots/UI.jpeg" alt="Application Screenshot" style="height:-50%;">
+  <img src="screenshots/UI.jpeg" alt="Application Screenshot" style="height:50%;">
 </p>
 
 *Simple and user-friendly interface*
 
 ### Before and After
 <p align="center">
-  <img src="screenshots/old.jpeg" alt="Original Photo" style="height:-50%; width:auto; margin-right:10px;">
-  <img src="screenshots/new.png" alt="Processed Photo";">
+  <img src="screenshots/old.jpeg" alt="Original Photo" style="height:50%; width:auto; margin-right:10px;">
+  <img src="screenshots/new.png" alt="Processed Photo" style="height:50%; width:auto;">
 </p>
 *Left: Original rectangular photo | Right: Photo with black borders converted to 1:1 profile format*
+
 
 
 ## 🚀 Installation and Usage
