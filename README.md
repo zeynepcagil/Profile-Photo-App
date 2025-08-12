@@ -21,11 +21,11 @@ I originally created this application for a feature I wanted to use on my phone,
 *Simple and user-friendly interface*
 Before and After
 <div align="center">
-<img src="screenshots/old.jpeg" alt="Original Photo" width="200" style="margin-right: 100px;">
+<img src="screenshots/old.jpeg" alt="Original Photo" width="200">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="screenshots/new.png" alt="Processed Photo" width="350">
 </div>
 Left: Original rectangular photo | Right: Photo with black borders converted to 1:1 profile format
-
 ## 🚀 Installation and Usage
 
 This application requires no additional installation. Simply follow these steps:
