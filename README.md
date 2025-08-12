@@ -23,3 +23,20 @@ This application requires no additional installation. Simply follow these steps:
 4. Open the file with any web browser (Chrome, Firefox, Edge, etc.).
 5. Click the "Choose File" button to upload a photo and press the "Create" button to download your new profile picture.
 
+## Screenshots
+
+### Application Interface
+![Application Screenshot](screenshots/UI.jpeg)
+*Simple and user-friendly interface*
+
+### Before and After
+![Original Photo](screenshots/old.jpeg)
+*Original rectangular photo*
+
+![Processed Photo](screenshots/new.png)
+*Photo with black borders converted to 1:1 profile format*
+
+## Contributing
+
+Feel free to contribute to the project! You can support us by sending pull requests to improve the application.
+
