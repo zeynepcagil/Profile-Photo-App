@@ -19,14 +19,12 @@ I originally created this application for a feature I wanted to use on my phone,
 <img src="screenshots/UI.jpeg" alt="Application Screenshot" width="200">
 
 *Simple and user-friendly interface*
-
-### Before and After
+Before and After
 <div align="center">
-<img src="screenshots/old.jpeg" alt="Original Photo" width="200" style="margin-right: 200px;">
+<img src="screenshots/old.jpeg" alt="Original Photo" width="200" style="margin-right: 100px;">
 <img src="screenshots/new.png" alt="Processed Photo" width="350">
 </div>
-
-*Left: Original rectangular photo | Right: Photo with black borders converted to 1:1 profile format*
+Left: Original rectangular photo | Right: Photo with black borders converted to 1:1 profile format
 
 ## 🚀 Installation and Usage
 
