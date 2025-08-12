@@ -22,7 +22,7 @@ I originally created this application for a feature I wanted to use on my phone,
 
 ### Before and After
 <div align="center">
-<img src="screenshots/old.jpeg" alt="Original Photo" width="200" style="margin-right: 30px;">
+<img src="screenshots/old.jpeg" alt="Original Photo" width="200" style="margin-right: 70px;">
 <img src="screenshots/new.png" alt="Processed Photo" width="350">
 </div>
 
