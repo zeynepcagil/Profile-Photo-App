@@ -16,21 +16,17 @@ I originally created this application for a feature I wanted to use on my phone,
 ## 📱 Screenshots
 
 ### Application Interface
-### Application Interface
-<p align="center">
-  <img src="screenshots/UI.jpeg" alt="Application Screenshot" style="height:50%;">
-</p>
+<img src="screenshots/UI.jpeg" alt="Application Screenshot" width="200">
 
 *Simple and user-friendly interface*
 
 ### Before and After
-<p align="center">
-  <img src="screenshots/old.jpeg" alt="Original Photo" style="height:50%; width:auto; margin-right:10px;">
-  <img src="screenshots/new.png" alt="Processed Photo" style="height:50%; width:auto;">
-</p>
+<div align="center">
+<img src="screenshots/old.jpeg" alt="Original Photo" width="100">
+<img src="screenshots/new.png" alt="Processed Photo" width="200">
+</div>
+
 *Left: Original rectangular photo | Right: Photo with black borders converted to 1:1 profile format*
-
-
 
 ## 🚀 Installation and Usage
 
@@ -42,10 +38,3 @@ This application requires no additional installation. Simply follow these steps:
 4. Open the file with any web browser (Chrome, Firefox, Edge, etc.).
 5. Click the "Choose File" button to upload a photo and press the "Create" button to download your new profile picture.
 
-## 🤖 Developed with Gemini
-
-This application was created through AI-assisted collaboration. The core HTML, CSS, and JavaScript code, user interface improvements, and this `README.md` file were written together by the user and Gemini.
-
-## 🤝 Contributing
-
-Feel free to contribute to the project! You can support us by sending pull requests to improve the application.
