@@ -23,7 +23,7 @@ I originally created this application for a feature I wanted to use on my phone,
 ### Before and After
 <div align="center">
 <img src="screenshots/old.jpeg" alt="Original Photo" width="200">
-<img src="screenshots/new.png" alt="Processed Photo" width="300">
+<img src="screenshots/new.png" alt="Processed Photo" width="350">
 </div>
 
 *Left: Original rectangular photo | Right: Photo with black borders converted to 1:1 profile format*
