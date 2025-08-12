@@ -152,17 +152,28 @@
 
             const originalWidth = img.naturalWidth;
             const originalHeight = img.naturalHeight;
+            const MAX_CANVAS_SIZE = 1000; // Maksimum kanvas boyutu
 
-            const canvasSize = Math.max(originalWidth, originalHeight);
+            // Fotoğraf boyutlarını maksimum kanvas boyutuna göre ölçekle
+            let scaledWidth = originalWidth;
+            let scaledHeight = originalHeight;
+
+            if (originalWidth > MAX_CANVAS_SIZE || originalHeight > MAX_CANVAS_SIZE) {
+                const scaleFactor = Math.min(MAX_CANVAS_SIZE / originalWidth, MAX_CANVAS_SIZE / originalHeight);
+                scaledWidth = originalWidth * scaleFactor;
+                scaledHeight = originalHeight * scaleFactor;
+            }
+
+            const canvasSize = Math.max(scaledWidth, scaledHeight);
             canvas.width = canvasSize;
             canvas.height = canvasSize;
 
             ctx.fillStyle = '#000000'; // Siyah arka plan
             ctx.fillRect(0, 0, canvasSize, canvasSize);
 
-            const x = (canvasSize - originalWidth) / 2;
-            const y = (canvasSize - originalHeight) / 2;
-            ctx.drawImage(img, x, y, originalWidth, originalHeight);
+            const x = (canvasSize - scaledWidth) / 2;
+            const y = (canvasSize - scaledHeight) / 2;
+            ctx.drawImage(img, x, y, scaledWidth, scaledHeight);
         }
 
         // Oluştur butonuna tıklandığında tetiklenir
